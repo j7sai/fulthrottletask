@@ -8,7 +8,7 @@ server supports only api
 
 Github repository : https://github.com/j7sai/fulthrottletask.git
 
-# custom management commands
+# Custom management commands
   -> Two commands are for activities.
   
   -> To get specific user activities , we must pass argument 'id'.
