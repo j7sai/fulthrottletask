@@ -6,8 +6,6 @@ This application is hosted in heroku with public repo github.
 
 server supports only api 
 
-heroku app : https://useractivites.herokuapp.com/
-
 Github repository : https://github.com/j7sai/fulthrottletask.git
 
 # custom management commands
