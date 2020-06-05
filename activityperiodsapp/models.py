@@ -1,8 +1,10 @@
 from django.db import models
-import pytz
+import pytz,uuid
 
 class User(models.Model):
+
     TIMEZONES = tuple(zip(pytz.all_timezones,pytz.all_timezones))
+    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     real_name = models.CharField(max_length=225)
     tz = models.CharField(max_length=225,choices=TIMEZONES)
 
