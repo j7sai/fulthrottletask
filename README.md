@@ -1,14 +1,14 @@
 # Fulthrottle Python / Django task
 
-This is guide or documentation for users and its activites. users have multipe activites recorded. Those are listed in api under members. Also there is command line interface which populates data from databases  
+This is guide or documentation for application which describes about users and their activites. users have multipe activites with range from start time to end time recorded. Those are listed in api under members. Also there are commands used in command line interface which populates data from databases.  
 
-This is hosted in heroku with public repo github.
+This application is hosted in heroku with public repo github.
 
 server supports only api 
 
 heroku app : https://useractivites.herokuapp.com/
 
-Github repositories : https://github.com/j7sai/fulthrottletask.git
+Github repository : https://github.com/j7sai/fulthrottletask.git
 
 # custom management commands
   -> Two commands are for activities.
