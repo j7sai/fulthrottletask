@@ -8,7 +8,7 @@ server supports only api
 
 heroku app : https://useractivites.herokuapp.com/
 
-Github repositories : 
+Github repositories : https://github.com/j7sai/fulthrottletask.git
 
 # custom management commands
   -> Two commands are for activities.
